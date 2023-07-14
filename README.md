@@ -7,17 +7,19 @@ Nationality: Republic of Korea
 <br/>University: Hanbat National University
 <br/>Major: Computer Engineering
 
-# 👉 Interests
+# ✏️ Interests
 Computer Vision
 
 # 📚 Tech Stack
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/Numpy-013243?style=flat&logo=Numpy&logoColor=white"/> <img src="https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas&logoColor=white"/> <img src="https://img.shields.io/badge/scikit-learn-F7931E?style=flat&logo=scikit-learn&logoColor=white"/>
 
-
-# ✏️ Do
-- [x] JUNE 22, 2023 - Join AIM Lab(Artificial Intelligence & Media Laboratory) [AIM Lab.](https://sites.google.com/view/aim-lab-hbnu/home)
-- [ ] JUNE 22, 2023~ - Study "혼자 공부하는 머신러닝"
-- [ ] July 2023~ - Study Data Analysis
+# ✔️ The work
+*Date* | *Work* | *Contents*
+----- | ----- | -----
+June 22, 2023 | Join AIM Lab | (Artificial Intelligence & Media Laboratory) [AIM Lab.](https://sites.google.com/view/aim-lab-hbnu/home)
+June 22, 2023~  | Study | "혼자 공부하는 머신러닝 + 딥러닝"
+July 2023~  | Seminar | "혼자 공부하는 머신러닝 + 딥러닝"
+July 2023~  | Study | Data Analysis
 
 
 # ↗️ Stats
