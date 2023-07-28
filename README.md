@@ -19,7 +19,7 @@ Computer Vision
 June 22, 2023 | Join AIM Lab | (Artificial Intelligence & Media Laboratory) [AIM Lab.](https://sites.google.com/view/aim-lab-hbnu/home)
 June 22, 2023 ~ July 24, 2023 | Study | "혼자 공부하는 머신러닝 + 딥러닝"
 July 2023 ~ July 26, 2023  | Seminar | "혼자 공부하는 머신러닝 + 딥러닝"
-July 2023 ~ July 31, 2023 | Study | Data Analysis
+July 01 2023 ~ July 31, 2023 | Study | Data Analysis
 July 2023 19 ~ July 31, 2023 | Study | 월간 데이콘 심리 성향 예측 AI 경진대회(overdue)
 
 
