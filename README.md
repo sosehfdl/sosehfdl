@@ -22,6 +22,7 @@ July 2023 ~ July 26, 2023  | Seminar | "혼자 공부하는 머신러닝 + 딥�
 July 01, 2023 ~ July 31, 2023 | Study | Data Analysis
 July 19, 2023 ~ August 03, 2023 | Study | 월간 데이콘 심리 성향 예측 AI 경진대회(overdue)
 
+# ✔️ CERTIFICATE
 *Date* | *Type* | *Contents*
 ----- | ----- | -----
 Aug 22, 2023 | CERTIFICATE | COURSERA Supervised Machine Learning Regression and Classification - (https://github.com/sosehfdl/sosehfdl/assets/123284655/e6db1b6f-4e84-4363-a031-80e8f2ed156e)
