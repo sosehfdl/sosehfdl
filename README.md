@@ -21,6 +21,7 @@ June 22, 2023 ~ July 24, 2023 | Study | "혼자 공부하는 머신러닝 + 딥�
 July 2023 ~ July 26, 2023  | Seminar | "혼자 공부하는 머신러닝 + 딥러닝"
 July 01, 2023 ~ July 31, 2023 | Study | Data Analysis
 July 19, 2023 ~ August 03, 2023 | Study | 월간 데이콘 심리 성향 예측 AI 경진대회(overdue)
+https://github.com/sosehfdl/Dacon_Machiavellism_test_solution
 
 # ✔️ CERTIFICATE
 *Date* | *Type* | *Contents*
