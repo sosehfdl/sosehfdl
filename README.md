@@ -38,7 +38,7 @@ JAN 04, 2024 | CERTIFICATE | COURSERA Sequence Models - (https://github.com/sose
 
 
 # 📗 Blog
-<br/>https://velog.io/@sosehfdl/posts
+https://velog.io/@sosehfdl/posts
 
 # ↗️ Stats
 <br/>![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sosehfdl&show_icons=true&theme=dark)
