@@ -33,7 +33,7 @@ November 01, 2023 ~ 20, 2023 | Competition | 제주 특산물 가격 예측 AI �
 ----- | ----- | -----
 Aug 22, 2023 | CERTIFICATE | COURSERA Supervised Machine Learning Regression and Classification - (https://github.com/sosehfdl/sosehfdl/assets/123284655/e6db1b6f-4e84-4363-a031-80e8f2ed156e)
 Aug 29, 2023 | CERTIFICATE | COURSERA Advanced Learning Algorithms - (https://github.com/sosehfdl/sosehfdl/assets/123284655/9548f39e-2a02-40b3-a2bc-8e6974cbec46)
-Sep 30, 2023 | CERTIFICATE | COURSERA Unsupervised Learning, Recommenders, Reinforcement Learning - (https://github.com/sosehfdl/sosehfdl/assets/123284655/cffcc04b-931f-45a5-a4c9-89cb08c89b03)
+Sep 30, 2023 | CERTIFICATE | COURSERA Unsupervised Learning, Recommenders, Reinforcement Learning - (https://github.com/sosehfdl/sosehfdl/assets/123284655/9223e87e-00ae-4588-88c3-a7de0eb4edfa)
 
 
 # ↗️ Stats
