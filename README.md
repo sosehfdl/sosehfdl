@@ -37,8 +37,8 @@ Sep 30, 2023 | CERTIFICATE | COURSERA Unsupervised Learning, Recommenders, Reinf
 JAN 04, 2024 | CERTIFICATE | COURSERA Sequence Models - (https://github.com/sosehfdl/sosehfdl/assets/123284655/43ff36b8-a3a2-496c-8bc3-5dc4a2b8a498)
 
 
-# Blog
-(https://velog.io/@sosehfdl/posts)
+# 📗 Blog
+<br/>https://velog.io/@sosehfdl/posts
 
 # ↗️ Stats
 <br/>![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sosehfdl&show_icons=true&theme=dark)
