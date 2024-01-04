@@ -4,7 +4,7 @@
 
 
 # 🔎 Information
-Nationality: Republic of Korea
+Nation: Republic of Korea
 <br/>University: Hanbat National University
 <br/>Major: Computer Engineering
 
