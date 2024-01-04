@@ -42,7 +42,7 @@ JAN 04, 2024 | CERTIFICATE | COURSERA Sequence Models - (https://github.com/sose
         <img src="https://img.shields.io/badge/Velog-20c997?style=for-the-badge&logo=Vimeo&logoColor=white"> 
     </a>
   
- [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=sosehfdl)](https://github.com/eungyeole/velog-readme-stats)
+ [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=sosehfdl)](https://github.com/sosehfdl/velog-readme-stats)
 </div>
 
 # ↗️ Stats
