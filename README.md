@@ -28,7 +28,7 @@ July 19, 2023 ~ August 03, 2023 | Study | 월간 데이콘 심리 성향 예측 
 November 01, 2023 ~ 20, 2023 | Competition | 제주 특산물 가격 예측 AI 경진대회(https://github.com/sosehfdl/Dacon_Jeju_Specialty_Product_Price_Prediction_AI)
 
 
-# ✔️ CERTIFICATE
+# 📃 CERTIFICATE
 *Date* | *Type* | *Contents*
 ----- | ----- | -----
 Aug 22, 2023 | CERTIFICATE | COURSERA Supervised Machine Learning Regression and Classification - (https://github.com/sosehfdl/sosehfdl/assets/123284655/e6db1b6f-4e84-4363-a031-80e8f2ed156e)
@@ -36,7 +36,7 @@ Aug 29, 2023 | CERTIFICATE | COURSERA Advanced Learning Algorithms - (https://gi
 Sep 30, 2023 | CERTIFICATE | COURSERA Unsupervised Learning, Recommenders, Reinforcement Learning - (https://github.com/sosehfdl/sosehfdl/assets/123284655/9223e87e-00ae-4588-88c3-a7de0eb4edfa)
 JAN 04, 2024 | CERTIFICATE | COURSERA Sequence Models - (https://github.com/sosehfdl/sosehfdl/assets/123284655/43ff36b8-a3a2-496c-8bc3-5dc4a2b8a498)
 
-# 💻 sosehfdl's log 💻
+# 💻 sosehfdl's log
  
   <br/>
 
