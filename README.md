@@ -37,14 +37,13 @@ Sep 30, 2023 | CERTIFICATE | COURSERA Unsupervised Learning, Recommenders, Reinf
 JAN 04, 2024 | CERTIFICATE | COURSERA Sequence Models - (https://github.com/sosehfdl/sosehfdl/assets/123284655/43ff36b8-a3a2-496c-8bc3-5dc4a2b8a498)
 
 ## 💻 sosehfdl's log 💻
-<div style="display:flex; flex-direction:row;">
-    <a href="https://velog.io/@bi-sz">
-        <img src="https://img.shields.io/badge/Velog-20c997?style=for-the-badge&logo=Vimeo&logoColor=white"> 
-    </a>
+ 
+  <br/>
   
- [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=sosehfdl)](https://github.com/sosehfdl/velog-readme-stats)
-[![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=li-yo&theme=default)](https://li-yo.tistory.com/)
-</div><br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=893107&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+  
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=sosehfdl)](https://velog.io/@sosehfdl)
+</div>
 
 # ↗️ Stats
 <br/>![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sosehfdl&show_icons=true&theme=dark)
