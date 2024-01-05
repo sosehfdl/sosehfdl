@@ -36,9 +36,10 @@ Aug 29, 2023 | CERTIFICATE | COURSERA Advanced Learning Algorithms - (https://gi
 Sep 30, 2023 | CERTIFICATE | COURSERA Unsupervised Learning, Recommenders, Reinforcement Learning - (https://github.com/sosehfdl/sosehfdl/assets/123284655/9223e87e-00ae-4588-88c3-a7de0eb4edfa)
 JAN 04, 2024 | CERTIFICATE | COURSERA Sequence Models - (https://github.com/sosehfdl/sosehfdl/assets/123284655/43ff36b8-a3a2-496c-8bc3-5dc4a2b8a498)
 
-## 💻 sosehfdl's log 💻
+# 💻 sosehfdl's log 💻
  
-<br/>
+  <br/>
+  
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=sosehfdl)](https://velog.io/@sosehfdl)
   
 </div>
