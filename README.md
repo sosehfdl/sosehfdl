@@ -7,6 +7,7 @@
 Nation: Republic of Korea
 <br/>University: Hanbat National University
 <br/>Major: Computer Engineering  
+#
 
 
 # ✏️ Interests
