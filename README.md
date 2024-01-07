@@ -6,8 +6,8 @@
 # 🔎 Information
 Nation: Republic of Korea
 <br/>University: Hanbat National University
-<br/>Major: Computer Engineering
-<br/>
+<br/>Major: Computer Engineering  
+
 
 # ✏️ Interests
 Computer Vision
