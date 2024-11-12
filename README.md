@@ -44,7 +44,7 @@ APR 28, 2024 | CERTIFICATE | Structuring Machine Learning Projects [link](https:
 
 
 # 📃 Project
-**Date | Type | Contents**
+Date | Type | Contents
 ----- | ----- | -----
 Jul 2024 | Project | 안테나 데이터 분석 및 실험 [link](https://docs.google.com/presentation/d/1dS7pIAmiluPT42fqskV9tENl51nOLzeSG6rQ_lot2jk/edit?usp=drive_link)
 Jul 29, 2024 ~ Aug 30, 2024 | Project | ABC 프로젝트 멘토링 [link](https://abcbootcamp.kr/abc_education/abc_education_detail/EDUA_000000034/)
@@ -52,7 +52,7 @@ Sep 01, 2024 ~ Oct 01, 2024 | Project | 멀티모달 안테나 데이터 분석 
 
 
 # 📃 Competition
-**Date | Type | Contents | Rank**
+Date | Type | Contents | Rank
 ----- | ----- | ----- | -----
 Nov 01, 2023 ~ 20, 2023 | Competition | 제주 특산물 가격 예측 AI 경진대회 [link](https://github.com/sosehfdl/Dacon_Jeju_Specialty_Product_Price_Prediction_AI) | 261/1093
 Jul 01, 2024 ~ 19, 2024 | Competition | SW중심대학 디지털 경진대회_SW와 생성AI의 만남 [link](https://dacon.io/competitions/official/236253/overview/description) | 46/219
@@ -60,7 +60,7 @@ Sep 01, 2024 ~ Oct 15, 2024 | Competition | WHISPERS 2024 MMSeg-YREB: Multi-Moda
 
 
 # 📃 Conference
-**Date | Type | Contents | Author**
+Date | Type | Contents | Author
 ----- | ----- | ----- | -----
 Mar 01, 2024 ~ Apr 26, 2024 | Conference | 위성영상 객체분할을 위한 데이터 전처리 기법(https://drive.google.com/file/d/1VW8P80DQh9x0BptQuGeTqI1GlmtP7UZr/view?usp=drive_link) | W.J PARK, H.C CHOI, H.E JANG
 
