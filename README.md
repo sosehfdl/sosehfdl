@@ -19,13 +19,18 @@ Image Processing
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/Numpy-013243?style=flat&logo=Numpy&logoColor=white"/> <img src="https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas&logoColor=white"/> <img src="https://img.shields.io/badge/scikit-learn-F7931E?style=flat&logo=scikit-learn&logoColor=white"/> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=PyTorch&logoColor=white"/> 
 
 
-# ✔️ The work
+# 📚 Tools
+<img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/> <img src="https://img.shields.io/badge/Google Colab-F9AB00?style=flat-square&logo=Google Colab&logoColor=white"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/> <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
+
+
+# ✔️ Work
 *Date* | *Work* | *Contents*
 ----- | ----- | -----
 Jun 22, 2023 | Join AIM Lab | (Artificial Intelligence & Media Laboratory) [AIM Lab.](https://sites.google.com/view/aim-lab-hbnu/home)
 Jun 22, 2023 ~ Jul 24, 2023 | Study | "혼자 공부하는 머신러닝 + 딥러닝"
-Jul 2023 ~ Jul 26, 2023  | Seminar | "혼자 공부하는 머신러닝 + 딥러닝"
-Jul 01, 2023 ~ Jul 31, 2023 | Study | Data Analysis
+Jul 01, 2023 ~ Jul 26, 2023  | Seminar | "혼자 공부하는 머신러닝 + 딥러닝"
+Jul 01, 2023 ~ Jul 31, 2023 | Study | 데이터 분석
+Jul 01, 2023 ~ | Seminar | 논문 세미나
 Jul 19, 2023 ~ Aug 03, 2023 | Study | 월간 데이콘 심리 성향 예측 AI 경진대회(overdue) [link](https://github.com/sosehfdl/Dacon_Machiavellism_test_solution)
 Nov 01, 2024 ~ | Study | Open-Vocabulary Detection과 Zero-Shot Detection을 위한 논문 재현 실험
 
@@ -62,7 +67,7 @@ Sep 01, 2024 ~ Oct 15, 2024 | Competition | WHISPERS 2024 MMSeg-YREB: Multi-Moda
 # 📃 Conference
 Date | Type | Contents | Author
 ----- | ----- | ----- | -----
-Mar 01, 2024 ~ Apr 26, 2024 | Conference | 위성영상 객체분할을 위한 데이터 전처리 기법(https://drive.google.com/file/d/1VW8P80DQh9x0BptQuGeTqI1GlmtP7UZr/view?usp=drive_link) | W.J PARK, H.C CHOI, H.E JANG
+Mar 01, 2024 ~ Apr 26, 2024 | Conference | 위성영상 객체분할을 위한 데이터 전처리 기법 [link](https://drive.google.com/file/d/1VW8P80DQh9x0BptQuGeTqI1GlmtP7UZr/view?usp=drive_link) | W.J PARK, H.C CHOI, H.E JANG
 
 
 # 💻 sosehfdl's log
