@@ -3,28 +3,28 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=6994CDEE&text=&animation=twinkling&height=80)
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Alkatra&weight=500&size=45&duration=3000&pause=3&color=0080ff&center=true&vCenter=false&multiline=true&repeat=true&width=1000&height=100&lines=Welcome+to+sosehfdl's+GitHub!)](https://git.io/typing-svg)
 
-# 🔎 Information
+## 🔎 Information
 Nation: Republic of Korea
 <br/>University: Hanbat National University
 <br/>Major: Computer Engineering
 
 
-# ✏️ Interests
+## ✏️ Interests
 Computer Vision
 
 Image Processing
 
 
-# 📚 Tech Stack
+## 📚 Tech Stack
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/Numpy-013243?style=flat&logo=Numpy&logoColor=white"/> <img src="https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas&logoColor=white"/> <img src="https://img.shields.io/badge/scikit-learn-F7931E?style=flat&logo=scikit-learn&logoColor=white"/> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=PyTorch&logoColor=white"/> 
 
 
-# 📚 Tools
+## 📚 Tools
 <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/> <img src="https://img.shields.io/badge/Google Colab-F9AB00?style=flat-square&logo=Google Colab&logoColor=white"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/> <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
 
 
-# ✔️ Work
-*Date* | *Work* | *Contents*
+## ✔️ Work
+Date | Work | Contents
 ----- | ----- | -----
 Jun 22, 2023 | Join AIM Lab | (Artificial Intelligence & Media Laboratory) [AIM Lab.](https://sites.google.com/view/aim-lab-hbnu/home)
 Jun 22, 2023 ~ Jul 24, 2023 | Study | "혼자 공부하는 머신러닝 + 딥러닝"
@@ -35,8 +35,8 @@ Jul 19, 2023 ~ Aug 03, 2023 | Study | 월간 데이콘 심리 성향 예측 AI �
 Nov 01, 2024 ~ | Study | Open-Vocabulary Detection과 Zero-Shot Detection을 위한 논문 재현 실험
 
 
-# 📃 Certificate
-*Date* | *Type* | *Contents*
+## 📃 Certificate
+Date | Type | Contents
 ----- | ----- | -----
 Aug 22, 2023 | CERTIFICATE | COURSERA Supervised Machine Learning Regression and Classification [link](https://github.com/sosehfdl/sosehfdl/assets/123284655/e6db1b6f-4e84-4363-a031-80e8f2ed156e)
 Aug 29, 2023 | CERTIFICATE | COURSERA Advanced Learning Algorithms [link](https://github.com/sosehfdl/sosehfdl/assets/123284655/9548f39e-2a02-40b3-a2bc-8e6974cbec46)
@@ -48,7 +48,7 @@ FEB 18, 2024 | CERTIFICATE | COURSERA Convolutional Neural Networks [link](https
 APR 28, 2024 | CERTIFICATE | Structuring Machine Learning Projects [link](https://github.com/user-attachments/assets/349a0bfc-493f-4992-9501-a48539a42a8a)
 
 
-# 📃 Project
+## 📃 Project
 Date | Type | Contents
 ----- | ----- | -----
 Jul 2024 | Project | 안테나 데이터 분석 및 실험 [link](https://docs.google.com/presentation/d/1dS7pIAmiluPT42fqskV9tENl51nOLzeSG6rQ_lot2jk/edit?usp=drive_link)
@@ -56,7 +56,7 @@ Jul 29, 2024 ~ Aug 30, 2024 | Project | ABC 프로젝트 멘토링 [link](https:
 Sep 01, 2024 ~ Oct 01, 2024 | Project | 멀티모달 안테나 데이터 분석 및 실험 [link](https://docs.google.com/presentation/d/1XaGegUde-VkECaArLgq0KP4GYYnKz2tv8de-NnUwOpo/edit?usp=drive_link)
 
 
-# 📃 Competition
+## 📃 Competition
 Date | Type | Contents | Rank
 ----- | ----- | ----- | -----
 Nov 01, 2023 ~ 20, 2023 | Competition | 제주 특산물 가격 예측 AI 경진대회 [link](https://github.com/sosehfdl/Dacon_Jeju_Specialty_Product_Price_Prediction_AI) | 261/1093
@@ -64,19 +64,19 @@ Jul 01, 2024 ~ 19, 2024 | Competition | SW중심대학 디지털 경진대회_SW
 Sep 01, 2024 ~ Oct 15, 2024 | Competition | WHISPERS 2024 MMSeg-YREB: Multi-Modal Remote Sensing Semantic Segmentation Challenge [link](https://codalab.lisn.upsaclay.fr/competitions/19945) | 9/48
 
 
-# 📃 Conference
+## 📃 Conference
 Date | Type | Contents | Author
 ----- | ----- | ----- | -----
 Mar 01, 2024 ~ Apr 26, 2024 | Conference | 위성영상 객체분할을 위한 데이터 전처리 기법 [link](https://drive.google.com/file/d/1VW8P80DQh9x0BptQuGeTqI1GlmtP7UZr/view?usp=drive_link) | W.J PARK, H.C CHOI, H.E JANG
 
 
-# 💻 sosehfdl's log
+## 💻 sosehfdl's log
  
   <br/>
 
 <a href="https://velog.io/@sosehfdl"><img src="https://img.shields.io/badge/velog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@sosehfdl"/>
 
-# ↗️ Stats
+## ↗️ Stats
 <br/>![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sosehfdl&show_icons=true&theme=light)
 
 
