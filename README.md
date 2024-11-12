@@ -26,37 +26,37 @@ Jun 22, 2023 | Join AIM Lab | (Artificial Intelligence & Media Laboratory) [AIM 
 Jun 22, 2023 ~ Jul 24, 2023 | Study | "혼자 공부하는 머신러닝 + 딥러닝"
 Jul 2023 ~ Jul 26, 2023  | Seminar | "혼자 공부하는 머신러닝 + 딥러닝"
 Jul 01, 2023 ~ Jul 31, 2023 | Study | Data Analysis
-Jul 19, 2023 ~ Aug 03, 2023 | Study | 월간 데이콘 심리 성향 예측 AI 경진대회 [overdue](https://github.com/sosehfdl/Dacon_Machiavellism_test_solution)
+Jul 19, 2023 ~ Aug 03, 2023 | Study | 월간 데이콘 심리 성향 예측 AI 경진대회(overdue) [link](https://github.com/sosehfdl/Dacon_Machiavellism_test_solution)
 Nov 01, 2024 ~ | Study | Open-Vocabulary Detection과 Zero-Shot Detection을 위한 논문 재현 실험
 
 
 # 📃 Certificate
 *Date* | *Type* | *Contents*
 ----- | ----- | -----
-Aug 22, 2023 | CERTIFICATE | COURSERA Supervised Machine Learning Regression and Classification - (https://github.com/sosehfdl/sosehfdl/assets/123284655/e6db1b6f-4e84-4363-a031-80e8f2ed156e)
-Aug 29, 2023 | CERTIFICATE | COURSERA Advanced Learning Algorithms - (https://github.com/sosehfdl/sosehfdl/assets/123284655/9548f39e-2a02-40b3-a2bc-8e6974cbec46)
-Sep 30, 2023 | CERTIFICATE | COURSERA Unsupervised Learning, Recommenders, Reinforcement Learning - (https://github.com/sosehfdl/sosehfdl/assets/123284655/9223e87e-00ae-4588-88c3-a7de0eb4edfa)
-JAN 04, 2024 | CERTIFICATE | COURSERA Sequence Models - (https://github.com/sosehfdl/sosehfdl/assets/123284655/43ff36b8-a3a2-496c-8bc3-5dc4a2b8a498)
-JAN 20, 2024 | CERTIFICATE | COURSERA Neural Networks and Deep Learning - (https://github.com/sosehfdl/sosehfdl/assets/123284655/9afab31c-5067-4ac9-b7f6-1634d9bc317d)
-FEB 16, 2024 | CERTIFICATE | COURSERA Improving Deep Neural Networks_Hyperparameter Tuning, Regularization and Optimization - (https://github.com/user-attachments/assets/34f301fe-2641-476e-bac2-97295c18b03c)
-FEB 18, 2024 | CERTIFICATE | COURSERA Convolutional Neural Networks - (https://github.com/user-attachments/assets/536e8738-a41f-4abc-98fc-bc72d59fac9b)
-APR 28, 2024 | CERTIFICATE | Structuring Machine Learning Projects - (https://github.com/user-attachments/assets/349a0bfc-493f-4992-9501-a48539a42a8a)
+Aug 22, 2023 | CERTIFICATE | COURSERA Supervised Machine Learning Regression and Classification [link](https://github.com/sosehfdl/sosehfdl/assets/123284655/e6db1b6f-4e84-4363-a031-80e8f2ed156e)
+Aug 29, 2023 | CERTIFICATE | COURSERA Advanced Learning Algorithms [link](https://github.com/sosehfdl/sosehfdl/assets/123284655/9548f39e-2a02-40b3-a2bc-8e6974cbec46)
+Sep 30, 2023 | CERTIFICATE | COURSERA Unsupervised Learning, Recommenders, Reinforcement Learning [link](https://github.com/sosehfdl/sosehfdl/assets/123284655/9223e87e-00ae-4588-88c3-a7de0eb4edfa)
+JAN 04, 2024 | CERTIFICATE | COURSERA Sequence Models [link](https://github.com/sosehfdl/sosehfdl/assets/123284655/43ff36b8-a3a2-496c-8bc3-5dc4a2b8a498)
+JAN 20, 2024 | CERTIFICATE | COURSERA Neural Networks and Deep Learning [link](https://github.com/sosehfdl/sosehfdl/assets/123284655/9afab31c-5067-4ac9-b7f6-1634d9bc317d)
+FEB 16, 2024 | CERTIFICATE | COURSERA Improving Deep Neural Networks_Hyperparameter Tuning, Regularization and Optimization [link](https://github.com/user-attachments/assets/34f301fe-2641-476e-bac2-97295c18b03c)
+FEB 18, 2024 | CERTIFICATE | COURSERA Convolutional Neural Networks [link](https://github.com/user-attachments/assets/536e8738-a41f-4abc-98fc-bc72d59fac9b)
+APR 28, 2024 | CERTIFICATE | Structuring Machine Learning Projects [link](https://github.com/user-attachments/assets/349a0bfc-493f-4992-9501-a48539a42a8a)
 
 
 # 📃 Project
 **Date | Type | Contents**
 ----- | ----- | -----
-Jul 2024 | Project | 안테나 데이터 분석 및 실험(https://docs.google.com/presentation/d/1dS7pIAmiluPT42fqskV9tENl51nOLzeSG6rQ_lot2jk/edit?usp=drive_link)
-Jul 29, 2024 ~ Aug 30, 2024 | Project | ABC 프로젝트 멘토링(https://abcbootcamp.kr/abc_education/abc_education_detail/EDUA_000000034/)
-Sep 01, 2024 ~ Oct 01, 2024 | Project | 멀티모달 안테나 데이터 분석 및 실험(https://docs.google.com/presentation/d/1XaGegUde-VkECaArLgq0KP4GYYnKz2tv8de-NnUwOpo/edit?usp=drive_link)
+Jul 2024 | Project | 안테나 데이터 분석 및 실험 [link](https://docs.google.com/presentation/d/1dS7pIAmiluPT42fqskV9tENl51nOLzeSG6rQ_lot2jk/edit?usp=drive_link)
+Jul 29, 2024 ~ Aug 30, 2024 | Project | ABC 프로젝트 멘토링 [link](https://abcbootcamp.kr/abc_education/abc_education_detail/EDUA_000000034/)
+Sep 01, 2024 ~ Oct 01, 2024 | Project | 멀티모달 안테나 데이터 분석 및 실험 [link](https://docs.google.com/presentation/d/1XaGegUde-VkECaArLgq0KP4GYYnKz2tv8de-NnUwOpo/edit?usp=drive_link)
 
 
 # 📃 Competition
 **Date | Type | Contents | Rank**
 ----- | ----- | ----- | -----
-Nov 01, 2023 ~ 20, 2023 | Competition | 제주 특산물 가격 예측 AI 경진대회(https://github.com/sosehfdl/Dacon_Jeju_Specialty_Product_Price_Prediction_AI) | 261/1093
-Jul 01, 2024 ~ 19, 2024 | Competition | SW중심대학 디지털 경진대회_SW와 생성AI의 만남(https://dacon.io/competitions/official/236253/overview/description) | 46/219
-Sep 01, 2024 ~ Oct 15, 2024 | Competition | WHISPERS 2024 MMSeg-YREB: Multi-Modal Remote Sensing Semantic Segmentation Challenge(https://codalab.lisn.upsaclay.fr/competitions/19945) | 9/48
+Nov 01, 2023 ~ 20, 2023 | Competition | 제주 특산물 가격 예측 AI 경진대회 [link](https://github.com/sosehfdl/Dacon_Jeju_Specialty_Product_Price_Prediction_AI) | 261/1093
+Jul 01, 2024 ~ 19, 2024 | Competition | SW중심대학 디지털 경진대회_SW와 생성AI의 만남 [link](https://dacon.io/competitions/official/236253/overview/description) | 46/219
+Sep 01, 2024 ~ Oct 15, 2024 | Competition | WHISPERS 2024 MMSeg-YREB: Multi-Modal Remote Sensing Semantic Segmentation Challenge [link](https://codalab.lisn.upsaclay.fr/competitions/19945) | 9/48
 
 
 # 📃 Conference
