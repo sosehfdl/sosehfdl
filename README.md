@@ -38,6 +38,9 @@ Aug 29, 2023 | CERTIFICATE | COURSERA Advanced Learning Algorithms - (https://gi
 Sep 30, 2023 | CERTIFICATE | COURSERA Unsupervised Learning, Recommenders, Reinforcement Learning - (https://github.com/sosehfdl/sosehfdl/assets/123284655/9223e87e-00ae-4588-88c3-a7de0eb4edfa)
 JAN 04, 2024 | CERTIFICATE | COURSERA Sequence Models - (https://github.com/sosehfdl/sosehfdl/assets/123284655/43ff36b8-a3a2-496c-8bc3-5dc4a2b8a498)
 JAN 20, 2024 | CERTIFICATE | COURSERA Neural Networks and Deep Learning - (https://github.com/sosehfdl/sosehfdl/assets/123284655/9afab31c-5067-4ac9-b7f6-1634d9bc317d)
+FEB 16, 2024 | CERTIFICATE | COURSERA Improving Deep Neural Networks_Hyperparameter Tuning, Regularization and Optimization - (https://github.com/user-attachments/assets/34f301fe-2641-476e-bac2-97295c18b03c)
+FEB 18, 2024 | CERTIFICATE | COURSERA Convolutional Neural Networks - (https://github.com/user-attachments/assets/536e8738-a41f-4abc-98fc-bc72d59fac9b)
+APR 28, 2024 | CERTIFICATE | Structuring Machine Learning Projects - (https://github.com/user-attachments/assets/349a0bfc-493f-4992-9501-a48539a42a8a)
 
 
 # 💻 sosehfdl's log
