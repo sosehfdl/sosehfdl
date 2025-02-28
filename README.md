@@ -32,7 +32,7 @@ Jul 01, 2023 ~ Jul 26, 2023  | Seminar | "혼자 공부하는 머신러닝 + 딥
 Jul 01, 2023 ~ Jul 31, 2023 | Study | 데이터 분석
 Jul 01, 2023 ~ | Seminar | 논문 세미나
 Jul 19, 2023 ~ Aug 03, 2023 | Study | 월간 데이콘 심리 성향 예측 AI 경진대회(overdue) [link](https://github.com/sosehfdl/Dacon_Machiavellism_test_solution)
-Nov 01, 2024 ~ | Study | Open-Vocabulary Detection과 Zero-Shot Detection을 위한 논문 재현 실험
+Nov 01, 2024 ~ | Study | 항공영상 기반의 제로샷 객체 탐지 연구
 
 
 ## 📃 Certificate
