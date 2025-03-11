@@ -51,7 +51,6 @@ APR 28, 2024 | CERTIFICATE | Structuring Machine Learning Projects [link](https:
 Date | Type | Contents
 ----- | ----- | -----
 Jul 2024 | Project | 안테나 데이터 분석 및 실험 [link](https://docs.google.com/presentation/d/1dS7pIAmiluPT42fqskV9tENl51nOLzeSG6rQ_lot2jk/edit?usp=drive_link)
-Jul 29, 2024 ~ Aug 30, 2024 | Project | ABC 프로젝트 멘토링 [link](https://abcbootcamp.kr/abc_education/abc_education_detail/EDUA_000000034/)
 Sep 01, 2024 ~ Oct 01, 2024 | Project | 멀티모달 안테나 데이터 분석 및 실험 [link](https://docs.google.com/presentation/d/1XaGegUde-VkECaArLgq0KP4GYYnKz2tv8de-NnUwOpo/edit?usp=drive_link)
 Nov 01, 2024 ~ | Project | 항공영상 기반의 제로샷 객체 탐지 연구
 
