@@ -3,7 +3,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=6994CDEE&text=&animation=twinkling&height=80)
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Alkatra&weight=500&size=45&duration=3000&pause=3&color=0080ff&center=true&vCenter=false&multiline=true&repeat=true&width=1000&height=100&lines=Welcome+to+sosehfdl's+GitHub!)](https://git.io/typing-svg)
 
-### 🔎 Information
+## 🔎 Information
 Nation: Republic of Korea
 <br/>University: Hanbat National University
 <br/>Major: Computer Engineering
