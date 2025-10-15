@@ -23,7 +23,7 @@ Image Processing
 <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/> <img src="https://img.shields.io/badge/Google Colab-F9AB00?style=flat-square&logo=Google Colab&logoColor=white"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/> <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
 
 
-## ✔️ Work
+## 🙋‍♂️ Work Experience
 Date | Work | Contents
 ----- | ----- | -----
 Jun 22, 2023 | Join AIM Lab | (Artificial Intelligence & Media Laboratory) [AIM Lab.](https://sites.google.com/view/aim-lab-hbnu/home)
@@ -32,7 +32,9 @@ Jul 01, 2023 ~ Jul 26, 2023  | Seminar | "혼자 공부하는 머신러닝 + 딥
 Jul 01, 2023 ~ Jul 31, 2023 | Study | 데이터 분석
 Jul 01, 2023 ~ | Seminar | 논문 세미나
 Jul 19, 2023 ~ Aug 03, 2023 | Study | 월간 데이콘 심리 성향 예측 AI 경진대회(overdue) [link](https://github.com/sosehfdl/Dacon_Machiavellism_test_solution)
-
+Mar 01, 2025 ~ Jun, 2025 | Teaching Assistant | 인공지능 수업 조교
+July 01, 2025 ~ Sep 30, 2025 | Intern | 데이터메이커(주) 인턴십
+Sep 01, 2025 ~ Present | Teaching Assistant | 컴퓨터비 수업 조교
 
 ## 📃 Certificate
 Date | Type | Contents
@@ -52,7 +54,9 @@ Date | Type | Contents
 ----- | ----- | -----
 Jul 2024 | Project | 안테나 데이터 분석 및 실험 [link](https://docs.google.com/presentation/d/1dS7pIAmiluPT42fqskV9tENl51nOLzeSG6rQ_lot2jk/edit?usp=drive_link)
 Sep 01, 2024 ~ Oct 01, 2024 | Project | 멀티모달 안테나 데이터 분석 및 실험 [link](https://docs.google.com/presentation/d/1XaGegUde-VkECaArLgq0KP4GYYnKz2tv8de-NnUwOpo/edit?usp=drive_link)
-Nov 01, 2024 ~ | Project | 항공영상 기반의 제로샷 객체 탐지 연구
+Nov 01, 2024 ~ Sep 30, 2025 | Project | 비학습 군사 표적 탐지 (비공개)
+Nov 01, 2024 ~ Present | Project | 항공영상 기반의 제로샷 객체 탐지 연구
+
 
 
 ## 📃 Competition
@@ -62,12 +66,15 @@ Nov 01, 2023 ~ 20, 2023 | Competition | 제주 특산물 가격 예측 AI 경진
 May 01, 2024 ~ 17, 2024 | Competition | HBNU Fake audio detection competition(예선) [link](https://www.kaggle.com/competitions/hbnu-fake-audio-detection-competition/overview) | 3/13
 Jul 01, 2024 ~ 19, 2024 | Competition | SW중심대학 디지털 경진대회_SW와 생성AI의 만남 [link](https://dacon.io/competitions/official/236253/overview/description) | 46/219
 Sep 01, 2024 ~ Oct 15, 2024 | Competition | WHISPERS 2024 MMSeg-YREB: Multi-Modal Remote Sensing Semantic Segmentation Challenge [link](https://codalab.lisn.upsaclay.fr/competitions/19945) | 9/48
+May 01, 2025 ~ May 16, 2025 | Competition | 2025 SW중심대학 디지털 경진대회 : AI부문 [link](https://www.kaggle.com/competitions/fake-text-detection-competition/overview) | 4/17
 
 
 ## 📃 Conference
 Date | Type | Contents | Author
 ----- | ----- | ----- | -----
-Mar 01, 2024 ~ Apr 26, 2024 | Conference | 위성영상 객체분할을 위한 데이터 전처리 기법 [link](https://drive.google.com/file/d/1VW8P80DQh9x0BptQuGeTqI1GlmtP7UZr/view?usp=drive_link) | W.J PARK, H.C CHOI, H.E JANG
+Mar 01, 2024 ~ Apr 26, 2024 | Conference | [2024 JCCI] 위성영상 객체분할을 위한 데이터 전처리 기법 [link](https://drive.google.com/file/d/1VW8P80DQh9x0BptQuGeTqI1GlmtP7UZr/view?usp=drive_link) | W.J PARK, H.C CHOI, H.E JANG
+Nov 01, 2024 ~ Jun 30, 2025 | Conference | [2025 KIBME] 확산 모델 기반 데이터 부족 환경에서의 배경 재구성 합성 데이터를 활용한 군용 차량 객체 탐지 연구 [link](https://drive.google.com/file/d/1ud1YtV2q9qvSZ4MgQgwq1WWnC4XktK4d/view?usp=drive_link) | W.J PARK, D.B KIM, E.K KIM, H.E JANG
+Nov 01, 2024 ~ Sep 30, 2025 | Conference | [2025 IKEEE] 확산 모델 기반 배경 재구성 합성 데이터를 활용한 군용 차량 객체 탐지 연구 [link](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003244895) | W.J PARK, D.B KIM, E.K KIM, H.E JANG
 
 
 ## 💻 sosehfdl's log
