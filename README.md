@@ -64,10 +64,11 @@ Oct 01, 2025 ~ Present | Project | IR-to-EO 영상 변환을 활용한 객체 �
 Date | Type | Contents | Rank
 ----- | ----- | ----- | -----
 Nov 01, 2023 ~ 20, 2023 | Competition | 제주 특산물 가격 예측 AI 경진대회 [link](https://github.com/sosehfdl/Dacon_Jeju_Specialty_Product_Price_Prediction_AI) | 261/1093
+Mar 08, 2024 ~ 25, 2024 | Competition | 제6회 2024 연구개발특구 AI SPARK 산불 탐지 챌린지 [link](https://aifactory.space/task/2723/overview) | 1/141
 May 01, 2024 ~ 17, 2024 | Competition | HBNU Fake audio detection competition(예선) [link](https://www.kaggle.com/competitions/hbnu-fake-audio-detection-competition/overview) | 3/13
 Jul 01, 2024 ~ 19, 2024 | Competition | SW중심대학 디지털 경진대회_SW와 생성AI의 만남 [link](https://dacon.io/competitions/official/236253/overview/description) | 46/219
 Sep 01, 2024 ~ Oct 15, 2024 | Competition | WHISPERS 2024 MMSeg-YREB: Multi-Modal Remote Sensing Semantic Segmentation Challenge [link](https://codalab.lisn.upsaclay.fr/competitions/19945) | 9/48
-May 01, 2025 ~ May 16, 2025 | Competition | 2025 SW중심대학 디지털 경진대회 : AI부문 [link](https://www.kaggle.com/competitions/fake-text-detection-competition/overview) | 4/17
+May 01, 2025 ~ May 16, 2025 | Competition | 2025 SW중심대학 디지털 경진대회 : AI부문(예선) [link](https://www.kaggle.com/competitions/fake-text-detection-competition/overview) | 4/17
 
 
 ## 📃 Conference
