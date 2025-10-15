@@ -49,13 +49,14 @@ FEB 18, 2024 | CERTIFICATE | COURSERA Convolutional Neural Networks [link](https
 APR 28, 2024 | CERTIFICATE | Structuring Machine Learning Projects [link](https://github.com/user-attachments/assets/349a0bfc-493f-4992-9501-a48539a42a8a)
 
 
-## 📃 Project
+## 📃 Project & Research
 Date | Type | Contents
 ----- | ----- | -----
 Jul 2024 | Project | 안테나 데이터 분석 및 실험 [link](https://docs.google.com/presentation/d/1dS7pIAmiluPT42fqskV9tENl51nOLzeSG6rQ_lot2jk/edit?usp=drive_link)
 Sep 01, 2024 ~ Oct 01, 2024 | Project | 멀티모달 안테나 데이터 분석 및 실험 [link](https://docs.google.com/presentation/d/1XaGegUde-VkECaArLgq0KP4GYYnKz2tv8de-NnUwOpo/edit?usp=drive_link)
 Nov 01, 2024 ~ Sep 30, 2025 | Project | 비학습 군사 표적 탐지 (비공개)
 Nov 01, 2024 ~ Present | Project | 항공영상 기반의 제로샷 객체 탐지 연구
+Oct 01, 2025 ~ Present | Project | IR-to-EO 영상 변환을 활용한 객체 탐지 연구
 
 
 
