@@ -12,7 +12,9 @@ Nation: Republic of Korea
 ## ✏️ Interests
 Computer Vision
 
-Image Processing
+Image Generation
+
+Image Translation
 
 
 ## 📚 Tech Stack
