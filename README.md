@@ -36,7 +36,7 @@ Jul 01, 2023 ~ | Seminar | 논문 세미나
 Jul 19, 2023 ~ Aug 03, 2023 | Study | 월간 데이콘 심리 성향 예측 AI 경진대회(overdue) [link](https://github.com/sosehfdl/Dacon_Machiavellism_test_solution)
 Mar 01, 2025 ~ Jun, 2025 | Teaching Assistant | 인공지능 수업 조교
 July 01, 2025 ~ Sep 30, 2025 | Intern | 데이터메이커(주) 인턴십
-Sep 01, 2025 ~ Present | Teaching Assistant | 컴퓨터비 수업 조교
+Sep 01, 2025 ~ Present | Teaching Assistant | 컴퓨터비전 수업 조교
 
 ## 📃 Certificate
 Date | Type | Contents
