@@ -79,6 +79,8 @@ Date | Type | Contents | Author
 Mar 01, 2024 ~ Apr 26, 2024 | Conference | [2024 JCCI] 위성영상 객체분할을 위한 데이터 전처리 기법 [link](https://drive.google.com/file/d/1VW8P80DQh9x0BptQuGeTqI1GlmtP7UZr/view?usp=drive_link) | W.J PARK, H.C CHOI, H.E JANG
 Nov 01, 2024 ~ Jun 30, 2025 | Conference | [2025 KIBME] 확산 모델 기반 데이터 부족 환경에서의 배경 재구성 합성 데이터를 활용한 군용 차량 객체 탐지 연구 [link](https://drive.google.com/file/d/1ud1YtV2q9qvSZ4MgQgwq1WWnC4XktK4d/view?usp=drive_link) | W.J PARK, D.B KIM, E.K KIM, H.E JANG
 Nov 01, 2024 ~ Sep 30, 2025 | Conference | [2025 IKEEE] 확산 모델 기반 배경 재구성 합성 데이터를 활용한 군용 차량 객체 탐지 연구 [link](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003244895) | W.J PARK, D.B KIM, E.K KIM, H.E JANG
+Nov 01, 2024 ~ Jun 30, 2025 | Conference | [2025 KIBME] 확산 모델을 활용한 SAR-광학 영상 변환을 위한 효과적인 데이터 전처리와 증대 기법 [link](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003205211) | H.W SEO, J.S LEE, W.J PARK, H.C CHOI, K.H.KIM, H.E JANG
+Nov 01, 2024 ~ Jun 30, 2025 | Conference | [2025 IKEEE] 합성 개구 레이다 이미지에서 객체 탐지 성능 향상을 위한Crop-Paste 데이터 증대 기법 [link](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003221134) | J.S LEE, H.W SEO, W.J PARK, H.C CHOI, K.H.KIM, E.K KIM, H.E JANG
 
 
 ## 💻 sosehfdl's log
