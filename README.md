@@ -90,7 +90,7 @@ Nov 01, 2024 ~ Jun 30, 2025 | Conference | [2025 IKEEE] 합성 개구 레이다 
 <a href="https://velog.io/@sosehfdl"><img src="https://img.shields.io/badge/velog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@sosehfdl"/>
 
 ## ↗️ Stats
-<br/>![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sosehfdl&show_icons=true&theme=light)
+<br/>![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sosehfdl&show_icons=true&theme=dark)
 
 
 # 💬 Contact
