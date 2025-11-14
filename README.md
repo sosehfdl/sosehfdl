@@ -21,7 +21,7 @@ Image Translation
 <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/Numpy-013243?style=flat&logo=Numpy&logoColor=white"/> <img src="https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas&logoColor=white"/> <img src="https://img.shields.io/badge/scikit-learn-F7931E?style=flat&logo=scikit-learn&logoColor=white"/> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=PyTorch&logoColor=white"/> 
 
 
-## 📚 Tools
+## 🔧 Tools
 <img src="https://img.shields.io/badge/Visual Studio-3DDC84?style=flat&logo=Visual Studio&logoColor=white"/> <img src="https://img.shields.io/badge/Google Colab-F9AB00?style=flat-square&logo=Google Colab&logoColor=white"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/> <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
 
 
@@ -51,7 +51,7 @@ FEB 18, 2024 | CERTIFICATE | COURSERA Convolutional Neural Networks [link](https
 APR 28, 2024 | CERTIFICATE | Structuring Machine Learning Projects [link](https://github.com/user-attachments/assets/349a0bfc-493f-4992-9501-a48539a42a8a)
 
 
-## 📃 Project & Research
+## 🏃‍♂️‍➡️ Project & Research
 Date | Type | Contents
 ----- | ----- | -----
 Jul 2024 | Project | 안테나 데이터 분석 및 실험 [link](https://docs.google.com/presentation/d/1dS7pIAmiluPT42fqskV9tENl51nOLzeSG6rQ_lot2jk/edit?usp=drive_link)
@@ -62,7 +62,7 @@ Oct 01, 2025 ~ Present | Project | IR-to-EO 영상 변환을 활용한 객체 �
 
 
 
-## 📃 Competition
+## 🏆 Competition
 Date | Type | Contents | Rank
 ----- | ----- | ----- | -----
 Nov 01, 2023 ~ 20, 2023 | Competition | 제주 특산물 가격 예측 AI 경진대회 [link](https://github.com/sosehfdl/Dacon_Jeju_Specialty_Product_Price_Prediction_AI) | 261/1093
@@ -73,7 +73,7 @@ Sep 01, 2024 ~ Oct 15, 2024 | Competition | WHISPERS 2024 MMSeg-YREB: Multi-Moda
 May 01, 2025 ~ May 16, 2025 | Competition | 2025 SW중심대학 디지털 경진대회 : AI부문(예선) [link](https://www.kaggle.com/competitions/fake-text-detection-competition/overview) | 4/17
 
 
-## 📃 Conference
+## 📄 Conference
 Date | Type | Contents | Author
 ----- | ----- | ----- | -----
 Mar 01, 2024 ~ Apr 26, 2024 | Conference | [2024 JCCI] 위성영상 객체분할을 위한 데이터 전처리 기법 [link](https://drive.google.com/file/d/1VW8P80DQh9x0BptQuGeTqI1GlmtP7UZr/view?usp=drive_link) | W.J PARK, H.C CHOI, H.E JANG
