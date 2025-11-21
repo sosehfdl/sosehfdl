@@ -11,10 +11,10 @@ Nation: Republic of Korea
 
 ## ✏️ Interests
 Computer Vision
-
 Image Generation
-
 Image Translation
+Zero-Shot Object Detection
+Camouflage Object Detection
 
 
 ## 📚 Tech Stack
