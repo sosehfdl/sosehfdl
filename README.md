@@ -87,6 +87,7 @@ Nov 01, 2024 ~ Jun 30, 2025 | Conference | [2025 KIBME KCI] 확산 모델을 활
 Nov 01, 2024 ~ Jun 30, 2025 | Conference | [2025 IKEEE KCI] 합성 개구 레이다 이미지에서 객체 탐지 성능 향상을 위한Crop-Paste 데이터 증대 기법 [link](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003221134) | J.S LEE, H.W SEO, W.J PARK, H.C CHOI, K.H.KIM, E.K KIM, H.E JANG
 Oct 01, 2025 ~ Nov 14, 2025 | Conference | [2025 KIBME] 조명 정보 기반 가시광·적외선 융합을 통한 주·야간 객체 탐지 연구 [link](https://kibme.org/academic/academicDetail?ae_idx=2385&ae_type=0) | W.J PARK, E.K KIM, H.E JANG
 Oct 01, 2025 ~ Dec 10, 2025 | Conference | [2025 IKEEE KCI] 조도 적응형 게이팅을 적용한 EO-IR 다중분광 객체 탐지 연구 | W.J PARK, E.K KIM, H.E JANG
+Jan 01, 2026 ~ Present | Conference | [SCIE] 진행 중 | W.J PARK, E.K KIM, H.E JANG
 
 
 ## 💻 sosehfdl's log
