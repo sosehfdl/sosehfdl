@@ -94,9 +94,6 @@ Oct 01, 2025 ~ Present | Conference | [2025 IKEEE KCI] 진행 중 | W.J PARK, E.
 
 <a href="https://velog.io/@sosehfdl"><img src="https://img.shields.io/badge/velog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@sosehfdl"/>
 
-## ↗️ Stats
-<br/>![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sosehfdl&show_icons=true&theme=dark)
-
 
 # 💬 Contact
 <a href="mailto:dnwls01113@gmail.com">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
