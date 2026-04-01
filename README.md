@@ -31,7 +31,7 @@ Date | Work | Contents
 Jun 22, 2023 | Join AIM Lab | (Artificial Intelligence & Media Laboratory) [AIM Lab.](https://sites.google.com/view/aim-lab-hbnu/home)
 Jul 01, 2023 ~ Jul 26, 2023  | Study & Seminar | "혼자 공부하는 머신러닝 + 딥러닝"
 Jul 01, 2023 ~ Jul 31, 2023 | Study | 데이터 분석
-Jul 01, 2023 ~ | Seminar | 논문 세미나
+Jul 01, 2023 ~ Present | Seminar | 논문 세미나
 Jul 19, 2023 ~ Aug 03, 2023 | Study | 월간 데이콘 심리 성향 예측 AI 경진대회(overdue) [link](https://github.com/sosehfdl/Dacon_Machiavellism_test_solution)
 Mar 01, 2025 ~ Jun, 2025 | Teaching Assistant | 인공지능과 기계학습 수업 조교
 July 01, 2025 ~ Sep 30, 2025 | Intern | 데이터메이커(주) 인턴십
