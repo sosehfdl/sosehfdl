@@ -29,8 +29,7 @@ Camouflage Object Detection
 Date | Work | Contents
 ----- | ----- | -----
 Jun 22, 2023 | Join AIM Lab | (Artificial Intelligence & Media Laboratory) [AIM Lab.](https://sites.google.com/view/aim-lab-hbnu/home)
-Jun 22, 2023 ~ Jul 24, 2023 | Study | "혼자 공부하는 머신러닝 + 딥러닝"
-Jul 01, 2023 ~ Jul 26, 2023  | Seminar | "혼자 공부하는 머신러닝 + 딥러닝"
+Jul 01, 2023 ~ Jul 26, 2023  | Study & Seminar | "혼자 공부하는 머신러닝 + 딥러닝"
 Jul 01, 2023 ~ Jul 31, 2023 | Study | 데이터 분석
 Jul 01, 2023 ~ | Seminar | 논문 세미나
 Jul 19, 2023 ~ Aug 03, 2023 | Study | 월간 데이콘 심리 성향 예측 AI 경진대회(overdue) [link](https://github.com/sosehfdl/Dacon_Machiavellism_test_solution)
