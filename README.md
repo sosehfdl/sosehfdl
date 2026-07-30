@@ -73,7 +73,7 @@ May 01, 2024 ~ 17, 2024 | Competition | HBNU Fake audio detection competition(�
 Jul 01, 2024 ~ 19, 2024 | Competition | SW중심대학 디지털 경진대회_SW와 생성AI의 만남 [link](https://dacon.io/competitions/official/236253/overview/description) | 46/219
 Sep 01, 2024 ~ Oct 15, 2024 | Competition | WHISPERS 2024 MMSeg-YREB: Multi-Modal Remote Sensing Semantic Segmentation Challenge [link](https://codalab.lisn.upsaclay.fr/competitions/19945) | 9/48
 May 01, 2025 ~ May 16, 2025 | Competition | 2025 SW중심대학 디지털 경진대회 : AI부문(예선) [link](https://www.kaggle.com/competitions/fake-text-detection-competition/overview) | 4/17
-Nov 01, 2024 ~ Dec 04, 2025 | Competition | 2025 컴퓨터공학과 캡스톤디자인 [link](https://github.com/HBNU-SWUNIV/come-capstone25-AerD) | 금상
+Nov 01, 2024 ~ Dec 04, 2025 | Competition | 2025 컴퓨터공학과 캡스톤디자인 [link](https://github.com/HBNU-SWUNIV/come-capstone25-AerD) | First prize
 
 
 ## 📄 Conference
@@ -88,7 +88,7 @@ Nov 01, 2024 ~ Jun 30, 2025 | Conference | [2025 KIBME KCI] 확산 모델을 활
 Nov 01, 2024 ~ Jun 30, 2025 | Conference | [2025 IKEEE KCI] 합성 개구 레이다 이미지에서 객체 탐지 성능 향상을 위한Crop-Paste 데이터 증대 기법 [link](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003221134) | J.S LEE, H.W SEO, W.J PARK, H.C CHOI, K.H.KIM, E.K KIM, H.E JANG
 Oct 01, 2025 ~ Nov 14, 2025 | Conference | [2025 KIBME] 조명 정보 기반 가시광·적외선 융합을 통한 주·야간 객체 탐지 연구 [link](https://kibme.org/academic/academicDetail?ae_idx=2385&ae_type=0) | W.J PARK, E.K KIM, H.E JANG
 Oct 01, 2025 ~ Dec 10, 2025 | Conference | [2026 IKEEE KCI] 조도 적응형 게이팅을 적용한 EO-IR 다중분광 객체 탐지 연구 | W.J PARK, E.K KIM, H.E JANG
-Jan 01, 2026 ~ Present | Conference | [SCIE-SciRep] 진행 중 | W.J PARK, E.K KIM, H.E JANG
+Jan 01, 2026 ~ Present | Conference | [SCIE-SciRep] 진행 중 | W.J PARK, C.E PARK, H.E JANG
 May 01, 2026 ~ Present | Conference | [AAAI2027] 진행 중 | J.S LEE, W.J PARK, H.E JANG
 Jun 01, 2026 ~ Present | Conference | [AAAI2027] 진행 중 | J.S LEE, W.J PARK, H.E JANG
 
