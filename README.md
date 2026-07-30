@@ -13,7 +13,7 @@ Nation: Republic of Korea
 Computer Vision, 
 Image Generation, 
 Image Translation, 
-Zero-Shot Object Detection, 
+Open-Vocabulary Object Detection/Segmentation, 
 Camouflage Object Detection
 
 
