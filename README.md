@@ -47,7 +47,7 @@ FEB 18, 2024 | CERTIFICATE | COURSERA Convolutional Neural Networks [link](https
 APR 28, 2024 | CERTIFICATE | Structuring Machine Learning Projects [link](https://github.com/user-attachments/assets/349a0bfc-493f-4992-9501-a48539a42a8a)
 
 
-## 🏃‍♂Project & Research
+## Project & Research
 Date | Type | Contents
 ----- | ----- | -----
 Jul 2024 | Project | 안테나 데이터 분석 및 실험 [link](https://docs.google.com/presentation/d/1dS7pIAmiluPT42fqskV9tENl51nOLzeSG6rQ_lot2jk/edit?usp=drive_link)
