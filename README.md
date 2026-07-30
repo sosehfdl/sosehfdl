@@ -3,13 +3,13 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=6994CDEE&text=&animation=twinkling&height=80)
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Alkatra&weight=500&size=45&duration=3000&pause=3&color=0080ff&center=true&vCenter=false&multiline=true&repeat=true&width=1000&height=100&lines=Welcome+to+sosehfdl's+GitHub!)](https://git.io/typing-svg)
 
-## 🔎 Information
+## Information
 Nation: Republic of Korea
 <br/>University: Hanbat National University
 <br/>Major: Computer Engineering
 
 
-## ✏️ Interests
+## Interests
 Computer Vision, 
 Image Generation, 
 Image Translation, 
@@ -17,11 +17,11 @@ Zero-Shot Object Detection,
 Camouflage Object Detection
 
 
-## 📚 Tech Stack
+## Tech Stack
 <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/Numpy-013243?style=flat&logo=Numpy&logoColor=white"/> <img src="https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas&logoColor=white"/> <img src="https://img.shields.io/badge/scikit-learn-F7931E?style=flat&logo=scikit-learn&logoColor=white"/> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=PyTorch&logoColor=white"/> 
 
 
-## 🙋‍♂️ Work Experience
+## Work Experience
 Date | Work | Contents
 ----- | ----- | -----
 Jun 22, 2023 | Join AIM Lab | (Artificial Intelligence & Media Laboratory) [AIM Lab.](https://sites.google.com/view/aim-lab-hbnu/home)
@@ -34,7 +34,7 @@ July 01, 2025 ~ Sep 30, 2025 | Intern | 데이터메이커(주) 인턴십
 Sep 01, 2025 ~ Dec, 2025  | Teaching Assistant | 컴퓨터비전 수업 조교
 Mar 03, 2026 ~ Jun, 2026 | Teaching Assistant | 인공지능 수업 조교
 
-## 📃 Certificate
+## Certificate
 Date | Type | Contents
 ----- | ----- | -----
 Aug 22, 2023 | CERTIFICATE | COURSERA Supervised Machine Learning Regression and Classification [link](https://github.com/sosehfdl/sosehfdl/assets/123284655/e6db1b6f-4e84-4363-a031-80e8f2ed156e)
@@ -47,7 +47,7 @@ FEB 18, 2024 | CERTIFICATE | COURSERA Convolutional Neural Networks [link](https
 APR 28, 2024 | CERTIFICATE | Structuring Machine Learning Projects [link](https://github.com/user-attachments/assets/349a0bfc-493f-4992-9501-a48539a42a8a)
 
 
-## 🏃‍♂️‍➡️ Project & Research
+## 🏃‍♂Project & Research
 Date | Type | Contents
 ----- | ----- | -----
 Jul 2024 | Project | 안테나 데이터 분석 및 실험 [link](https://docs.google.com/presentation/d/1dS7pIAmiluPT42fqskV9tENl51nOLzeSG6rQ_lot2jk/edit?usp=drive_link)
@@ -60,7 +60,7 @@ Mar 01, 2026 ~ Present | Project | 레오스페이스 - 위성 영상 초해상�
 
 
 
-## 🏆 Competition
+## Competition
 Date | Type | Contents | Rank
 ----- | ----- | ----- | -----
 Nov 01, 2023 ~ 20, 2023 | Competition | 제주 특산물 가격 예측 AI 경진대회 [link](https://github.com/sosehfdl/Dacon_Jeju_Specialty_Product_Price_Prediction_AI) | 261/1093
@@ -72,7 +72,7 @@ May 01, 2025 ~ May 16, 2025 | Competition | 2025 SW중심대학 디지털 경진
 Nov 01, 2024 ~ Dec 04, 2025 | Competition | 2025 컴퓨터공학과 캡스톤디자인 [link](https://github.com/HBNU-SWUNIV/come-capstone25-AerD) | First prize
 
 
-## 📄 Conference & Journal
+## Conference & Journal
 Date | Type | Contents | Author
 ----- | ----- | ----- | -----
 Mar 01, 2024 ~ Apr 26, 2024 | Conference | [2024 JCCI] 위성영상 객체분할을 위한 데이터 전처리 기법 [link](https://drive.google.com/file/d/1VW8P80DQh9x0BptQuGeTqI1GlmtP7UZr/view?usp=drive_link) | W.J PARK, H.C CHOI, H.E JANG
@@ -90,13 +90,6 @@ Jun 01, 2026 ~ Present | Conference | [AAAI2027] 진행 중 | J.S LEE, W.J PARK,
 Jul 30, 2026 ~ Aug 20, 2026 | Conference | [IWAIT2027] 진행 중 | W.J PARK, H.E JANG
 
 
-## 💻 sosehfdl's log
- 
-  <br/>
-
-<a href="https://velog.io/@sosehfdl"><img src="https://img.shields.io/badge/velog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@sosehfdl"/>
-
-
-# 💬 Contact
+# Contact
 <a href="mailto:dnwls01113@gmail.com">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 </div>
