@@ -87,6 +87,7 @@ Oct 01, 2025 ~ Dec 10, 2025 | Journal | [2026 IKEEE KCI] 조도 적응형 게이
 Jan 01, 2026 ~ Present | Journal | [SCIE-SciRep] 진행 중 | W.J PARK, C.E PARK, H.E JANG
 May 01, 2026 ~ Present | Conference | [AAAI2027] 진행 중 | J.S LEE, W.J PARK, H.E JANG
 Jun 01, 2026 ~ Present | Conference | [AAAI2027] 진행 중 | J.S LEE, W.J PARK, H.E JANG
+Jul 30, 2026 ~ Aug 20, 2026 | Conference | [IWAIT2027] 진행 중 | W.J PARK, H.E JANG
 
 
 ## 💻 sosehfdl's log
