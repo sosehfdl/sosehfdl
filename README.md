@@ -55,7 +55,7 @@ Sep 01, 2024 ~ Oct 01, 2024 | Project | 멀티모달 안테나 데이터 분석 
 Nov 01, 2024 ~ Sep 30, 2025 | Project | 비학습 군사 표적 탐지 (비공개)
 Nov 01, 2024 ~ Dec 04, 2025 | Project | 항공영상 기반의 제로샷 객체 탐지 연구
 Oct 01, 2025 ~ Dec 10, 2025 | Project | IR-to-EO 영상 변환을 활용한 객체 탐지 연구
-Mar 01, 2026 ~ Present | Project | 대한항공 - 비행 구간 판별을 위한 데이터셋 분석
+Mar 01, 2026 ~ Dec 31, 2026 | Project | 대한항공 - 비행 구간 판별을 위한 데이터셋 분석 및 모델 학습
 Mar 01, 2026 ~ Present | Project | 레오스페이스 - 위성 영상 초해상화
 
 
@@ -84,7 +84,7 @@ Nov 01, 2024 ~ Jun 30, 2025 | Journal | [2025 KIBME KCI] 확산 모델을 활용
 Nov 01, 2024 ~ Jun 30, 2025 | Journal | [2025 IKEEE KCI] 합성 개구 레이다 이미지에서 객체 탐지 성능 향상을 위한Crop-Paste 데이터 증대 기법 [link](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003221134) | J.S LEE, H.W SEO, W.J PARK, H.C CHOI, K.H.KIM, E.K KIM, H.E JANG
 Oct 01, 2025 ~ Nov 14, 2025 | Conference | [2025 KIBME] 조명 정보 기반 가시광·적외선 융합을 통한 주·야간 객체 탐지 연구 [link](https://kibme.org/academic/academicDetail?ae_idx=2385&ae_type=0) | W.J PARK, E.K KIM, H.E JANG
 Oct 01, 2025 ~ Dec 10, 2025 | Journal | [2026 IKEEE KCI] 조도 적응형 게이팅을 적용한 EO-IR 다중분광 객체 탐지 연구 | W.J PARK, E.K KIM, H.E JANG
-Jan 01, 2026 ~ Present | Journal | [SCIE-SciRep] 진행 중 | W.J PARK, C.E PARK, H.E JANG
+Jan 01, 2026 ~ July 01, 2026 | Journal | [SCIE-SciRep] Military terrain-conditioned decoy-aware mask refinement network for open-vocabulary camouflaged object segmentation [link](https://www.nature.com/articles/s41598-026-65105-3) | W.J PARK, C.E PARK, H.E JANG
 May 01, 2026 ~ Present | Conference | [AAAI2027] 진행 중 | J.S LEE, W.J PARK, H.E JANG
 Jun 01, 2026 ~ Present | Conference | [AAAI2027] 진행 중 | J.S LEE, W.J PARK, H.E JANG
 Jul 30, 2026 ~ Aug 20, 2026 | Conference | [IWAIT2027] 진행 중 | W.J PARK, H.E JANG
