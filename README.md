@@ -85,8 +85,8 @@ Nov 01, 2024 ~ Jun 30, 2025 | Journal | [2025 IKEEE KCI] 합성 개구 레이다
 Oct 01, 2025 ~ Nov 14, 2025 | Conference | [2025 KIBME] 조명 정보 기반 가시광·적외선 융합을 통한 주·야간 객체 탐지 연구 [link](https://kibme.org/academic/academicDetail?ae_idx=2385&ae_type=0) | W.J PARK, E.K KIM, H.E JANG
 Oct 01, 2025 ~ Dec 10, 2025 | Journal | [2026 IKEEE KCI] 조도 적응형 게이팅을 적용한 EO-IR 다중분광 객체 탐지 연구 | W.J PARK, E.K KIM, H.E JANG
 Jan 01, 2026 ~ July 01, 2026 | Journal | [SCIE-SciRep] Military terrain-conditioned decoy-aware mask refinement network for open-vocabulary camouflaged object segmentation [link](https://www.nature.com/articles/s41598-026-65105-3) | W.J PARK, C.E PARK, H.E JANG
-May 01, 2026 ~ Present | Conference | [AAAI2027] 진행 중 | J.S LEE, W.J PARK, H.E JANG
-Jun 01, 2026 ~ Present | Conference | [AAAI2027] 진행 중 | J.S LEE, W.J PARK, H.E JANG
+May 01, 2026 ~ Present | Conference | [TMM] 진행 중 | J.S LEE, W.J PARK, H.E JANG
+Jun 01, 2026 ~ Present | Conference | [JCDE] 진행 중 | J.S LEE, W.J PARK, H.E JANG
 Jul 30, 2026 ~ Aug 20, 2026 | Conference | [IWAIT2027] 진행 중 | W.J PARK, H.E JANG
 
 
