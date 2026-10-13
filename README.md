@@ -33,6 +33,7 @@ Mar 01, 2025 ~ Jun, 2025 | Teaching Assistant | 인공지능과 기계학습 수
 July 01, 2025 ~ Sep 30, 2025 | Intern | 데이터메이커(주) 인턴십
 Sep 01, 2025 ~ Dec, 2025  | Teaching Assistant | 컴퓨터비전 수업 조교
 Mar 03, 2026 ~ Jun, 2026 | Teaching Assistant | 인공지능 수업 조교
+Sep 01, 2026 ~ Dec, 2026 | Teaching Assistant | 컴퓨터비전 수업 조교
 
 ## Certificate
 Date | Type | Contents
@@ -87,7 +88,8 @@ Oct 01, 2025 ~ Dec 10, 2025 | Journal | [2026 IKEEE KCI] 조도 적응형 게이
 Jan 01, 2026 ~ July 01, 2026 | Journal | [SCIE-SciRep] Military terrain-conditioned decoy-aware mask refinement network for open-vocabulary camouflaged object segmentation [link](https://www.nature.com/articles/s41598-026-65105-3) | W.J PARK, C.E PARK, H.E JANG
 May 01, 2026 ~ Present | Conference | [TMM] 진행 중 | J.S LEE, W.J PARK, H.E JANG
 Jun 01, 2026 ~ Present | Conference | [JCDE] 진행 중 | J.S LEE, W.J PARK, H.E JANG
-Jul 30, 2026 ~ Aug 20, 2026 | Conference | [IWAIT2027] 진행 중 | W.J PARK, H.E JANG
+Jul 30, 2026 ~ Present | Conference | [IWAIT2027] 진행 중 | W.J PARK, H.E JANG
+Oct 01, 2026 ~ Present | Conference | [KCI] 진행 중 | W.J PARK, B.G SEO, H.E JANG
 
 
 # Contact
