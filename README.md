@@ -93,5 +93,5 @@ Oct 01, 2026 ~ Present | Conference | [KCI] 진행 중 | W.J PARK, B.G SEO, H.E 
 
 
 # Contact
-<a href="mailto:dnwls01113@gmail.com">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+<a href="mailto:bakvi12@gmail.com">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 </div>
